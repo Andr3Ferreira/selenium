@@ -1,0 +1,62 @@
+[
+    {
+        "code": "LB100",
+        "name": "Lip Balm SPF15",
+        "prices": "$0.72 - $0.97"
+    },
+    {
+        "code": "DRK311-61",
+        "name": "S'mores By The Fire Camping Mug Set",
+        "prices": "$9.77 - $10.89"
+    },
+    {
+        "code": "LB105",
+        "name": "Lip Balm",
+        "prices": "$0.58 - $0.68"
+    },
+    {
+        "code": "WB1",
+        "name": "1 oz Custom Wrapper Bars",
+        "prices": "$1.74 - $2.06"
+    },
+    {
+        "code": "PEY4066PC",
+        "name": "Microfiber Full Color Cloth 6x6 in Pouch",
+        "prices": "$1.13 - $1.26"
+    },
+    {
+        "code": "SBF1600",
+        "name": "Sugar Free Peppermint Gum Pack",
+        "prices": "$0.99 - $1.07"
+    },
+    {
+        "code": "ABL2400",
+        "name": "20ml Hand Sanitizer Spray",
+        "prices": "$1.24 - $1.24"
+    },
+    {
+        "code": "L85030",
+        "name": "ACE Slub T-Shirt S/S Crew Neck - Unisex",
+        "prices": "$14.86 - $16.61"
+    },
+    {
+        "code": "KT524",
+        "name": "Snug & Warm Gift Set",
+        "prices": "$38.51 - $42.90"
+    },
+    {
+        "code": "BGC1200",
+        "name": "Drawstring Backpack",
+        "prices": "$1.88 - $2.16"
+    },
+    {
+        "code": "ABL3710",
+        "name": "10ml Hand Sanitizer Spray",
+        "prices": "$0.92 - $0.92"
+    },
+    {
+        "code": "PEY4066",
+        "name": "Microfiber Full Color Cloth - 6x6",
+        "prices": "$0.86 - $0.96"
+    }
+]
